@@ -1,0 +1,30 @@
+[
+  {
+    "module": "Getting Started",
+    "Description": "Guidance for installation and initial product setup.",
+    "Submodules": {
+      "Installation & Setup": "Provides steps to configure a Chargebee account and connect billing settings."
+    }
+  },
+  {
+    "module": "Account Management",
+    "Description": "Features related to managing user accounts and settings.",
+    "Submodules": {
+      "Account Settings": "Explains how to manage organization details, users, and access roles."
+    }
+  },
+  {
+    "module": "Security & Privacy",
+    "Description": "Security, privacy, and access control features.",
+    "Submodules": {
+      "Security Settings": "Describes data protection practices and secure access management in Chargebee."
+    }
+  },
+  {
+    "module": "Plugins",
+    "Description": "Extending product functionality using plugins.",
+    "Submodules": {
+      "Plugin Usage": "Explains integrations with payment gateways and external tools."
+    }
+  }
+]

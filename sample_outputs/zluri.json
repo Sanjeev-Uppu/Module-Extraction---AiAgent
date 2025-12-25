@@ -1,0 +1,30 @@
+[
+  {
+    "module": "Getting Started",
+    "Description": "Guidance for installation and initial product setup.",
+    "Submodules": {
+      "Installation & Setup": "Provides instructions for onboarding and configuring Zluri for SaaS management."
+    }
+  },
+  {
+    "module": "Account Management",
+    "Description": "Features related to managing user accounts and settings.",
+    "Submodules": {
+      "Account Settings": "Explains how to manage organization users, roles, and access permissions."
+    }
+  },
+  {
+    "module": "Security & Privacy",
+    "Description": "Security, privacy, and access control features.",
+    "Submodules": {
+      "Security Settings": "Describes access audits, security policies, and compliance management."
+    }
+  },
+  {
+    "module": "Plugins",
+    "Description": "Extending product functionality using plugins.",
+    "Submodules": {
+      "Plugin Usage": "Explains integrations with third-party SaaS tools and identity providers."
+    }
+  }
+]

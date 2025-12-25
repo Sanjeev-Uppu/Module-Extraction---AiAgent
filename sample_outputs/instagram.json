@@ -1,0 +1,30 @@
+[
+  {
+    "module": "Account Management",
+    "Description": "Features related to managing user accounts and settings.",
+    "Submodules": {
+      "Account Settings": "Explains how users can update profile details, change passwords, and manage login settings."
+    }
+  },
+  {
+    "module": "Getting Started",
+    "Description": "Guidance for installation and initial product setup.",
+    "Submodules": {
+      "Installation & Setup": "Provides steps for creating an Instagram account and setting up a user profile."
+    }
+  },
+  {
+    "module": "Security & Privacy",
+    "Description": "Security, privacy, and access control features.",
+    "Submodules": {
+      "Security Settings": "Describes privacy controls, account protection options, and reporting unsafe activity."
+    }
+  },
+  {
+    "module": "Plugins",
+    "Description": "Extending product functionality using plugins.",
+    "Submodules": {
+      "Plugin Usage": "Explains integrations and third-party tools that enhance Instagram functionality."
+    }
+  }
+]

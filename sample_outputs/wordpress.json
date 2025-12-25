@@ -1,0 +1,30 @@
+[
+  {
+    "module": "Getting Started",
+    "Description": "Guidance for installation and initial product setup.",
+    "Submodules": {
+      "Installation & Setup": "Provides instructions for downloading WordPress, setting up hosting, configuring databases, and completing the initial installation."
+    }
+  },
+  {
+    "module": "Plugins",
+    "Description": "Extending product functionality using plugins.",
+    "Submodules": {
+      "Plugin Usage": "Explains how to install, activate, update, and manage plugins to extend WordPress features."
+    }
+  },
+  {
+    "module": "Security & Privacy",
+    "Description": "Security, privacy, and access control features.",
+    "Submodules": {
+      "Security Settings": "Describes security best practices and the process for responsibly reporting security vulnerabilities."
+    }
+  },
+  {
+    "module": "Account Management",
+    "Description": "Features related to managing user accounts and settings.",
+    "Submodules": {
+      "Account Settings": "Covers user roles, profile updates, and account-related preferences in WordPress."
+    }
+  }
+]
